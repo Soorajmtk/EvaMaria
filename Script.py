@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:,<sᴜᴊɪᴛʜ.ᴋʀ>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -65,6 +65,20 @@ class script(object):
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+
+    ADD_YOUR_GROUP = """**
+𝐼 𝐶𝑎𝑛'𝑡 𝐹𝑖𝑛𝑑  <i>#{query}</i> 𝑖𝑛 𝑚𝑦 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑠𝑜 𝑝𝑙𝑒𝑎𝑠𝑒 𝑐ℎ𝑒𝑐𝑘 𝑦𝑜𝑢'𝑟𝑒 𝑒𝑛𝑡𝑒𝑟𝑒𝑑 𝑠𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝑖𝑛 #𝐺𝑜𝑜𝑔𝑙𝑒/ 𝑂𝑟 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝑁𝑜𝑡 𝑅𝑒𝑙𝑒𝑎𝑠𝑒𝑑 /**"""
+ 
+    SPELL_CHECK = """
+Hello 👋〘 {mention} 〙,
+Couldn't Find {query}?  Please Click Your Request Movie Name"""
+    GET_MOVIE_1 = """
+** 📁 Here is What I Found In My Database** **For Your Query : #{title}**"""
+
+    GET_MOVIE_2 = """
+📽️ Requested Movie : {query}
+👤 Requested By : {mention}
+Uploder :[CINIEMA PRANTHAN](t.me/cinemapranthan320)
 
 <b>NOTE:</b>
 these are the extra features of Eva Maria
