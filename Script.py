@@ -59,7 +59,29 @@ class script(object):
 <b>NOTE:</b>
 1. Only admins can add a connection.
 2. Send <code>/connect</code> for connecting me to ur PM
+ADD_YOUR_GROUP = """**
 
+𝐼 𝐶𝑎𝑛'𝑡 𝐹𝑖𝑛𝑑  <i>#{query}</i> 𝑖𝑛 𝑚𝑦 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑠𝑜 𝑝𝑙𝑒𝑎𝑠𝑒 𝑐ℎ𝑒𝑐𝑘 𝑦𝑜𝑢'𝑟𝑒 𝑒𝑛𝑡𝑒𝑟𝑒𝑑 𝑠𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝑖𝑛 #𝐺𝑜𝑜𝑔𝑙𝑒/ 𝑂𝑟 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝑁𝑜𝑡 𝑅𝑒𝑙𝑒𝑎𝑠𝑒𝑑 /**"""
+
+ 
+
+    SPELL_CHECK = """
+
+Hello 👋〘 {mention} 〙,
+
+Couldn't Find {query}?  Please Click Your Request Movie Name"""
+
+    GET_MOVIE_1 = """
+
+ 📁 Here is What I Found In My Database For Your Query : #{title}"""
+
+    GET_MOVIE_2 = """
+
+📽️ Requested Movie : {query}
+
+👤 Requested By : {mention}
+
+Uploder :[CINIEMA PRANTHAN](t.me/cinemapranthan320)
 <b>Commands and Usage:</b>
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
