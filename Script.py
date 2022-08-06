@@ -57,22 +57,6 @@ class script(object):
 - it helps to avoid spamming in groups.
 
 <b>NOTE:</b>
-
-ADD_YOUR_GROUP = """**
-𝐼 𝐶𝑎𝑛'𝑡 𝐹𝑖𝑛𝑑  <i>#{query}</i> 𝑖𝑛 𝑚𝑦 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑠𝑜 𝑝𝑙𝑒𝑎𝑠𝑒 𝑐ℎ𝑒𝑐𝑘 𝑦𝑜𝑢'𝑟𝑒 𝑒𝑛𝑡𝑒𝑟𝑒𝑑 𝑠𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝑖𝑛 #𝐺𝑜𝑜𝑔𝑙𝑒/ 𝑂𝑟 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝑁𝑜𝑡 𝑅𝑒𝑙𝑒𝑎𝑠𝑒𝑑 /**"""
-
-SPELL_CHECK = """
-Hello 👋〘 {mention} 〙,
-Couldn't Find {query}?  Please Click Your Request Movie Name"""
-    GET_MOVIE_1 = """
-** 📁 Here is What I Found In My Database** **For Your Query : #{title}**"""
-
-GET_MOVIE_2 = """
-📽️ Requested Movie : {query}
-👤 Requested By : {mention}
-Uploder :[CINIEMA PRANTHAN](t.me/cinemapranthan320)
-
-
 1. Only admins can add a connection.
 2. Send <code>/connect</code> for connecting me to ur PM
 
