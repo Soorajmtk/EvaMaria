@@ -92,6 +92,35 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
+    
+
+    ADD_YOUR_GROUP = """**
+
+𝐼 𝐶𝑎𝑛'𝑡 𝐹𝑖𝑛𝑑  <i>#{query}</i> 𝑖𝑛 𝑚𝑦 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑠𝑜 𝑝𝑙𝑒𝑎𝑠𝑒 𝑐ℎ𝑒𝑐𝑘 𝑦𝑜𝑢'𝑟𝑒 𝑒𝑛𝑡𝑒𝑟𝑒𝑑 𝑠𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝑖𝑛 #𝐺𝑜𝑜𝑔𝑙𝑒/ 𝑂𝑟 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝑁𝑜𝑡 𝑅𝑒𝑙𝑒𝑎𝑠𝑒𝑑 /**"""
+
+ 
+
+    SPELL_CHECK = """
+
+Hello 👋〘 {mention} 〙,
+
+Couldn't Find {query}?  Please Click Your Request Movie Name"""
+
+    GET_MOVIE_1 = """
+
+** 📁 Here is What I Found In My Database** **For Your Query : #{title}**"""
+
+    GET_MOVIE_2 = """
+
+📽️ Requested Movie : {query}
+
+👤 Requested By : {mention}
+
+Uploder :[CINIEMA PRANTHAN](t.me/cinemapranthan320)
+
+Uploder : <b>{chatb</b>
+
+"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
